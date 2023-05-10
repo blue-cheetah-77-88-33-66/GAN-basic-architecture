@@ -1,2 +1,2 @@
 # GAN-basic-architecture
-Basic architecture of GAN for image generation
+Basic architecture of Generative Adversarial Networks for image generation
